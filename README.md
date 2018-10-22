@@ -1,4 +1,3 @@
-
 ICY README
 
 =======================
@@ -36,4 +35,3 @@ jean-sebastien.dube@etsmtl.ca
 Laboratory for Geotechnical and Geoenvironmental Engineering (LG2) 
 École de technologie supérieure
 1100 Notre-Dame Ouest, Montreal, Quebec, H3C 1K3, Canada
-
