@@ -1,14 +1,10 @@
-# ICY-2018
-ICY: an interface between COMSOL Multiphysics and YADE
-
-
 
 ICY README
 
 =======================
 Project description
 
-ICY is an interface between COMSOL Multiphysics and YADE. The interface is based on a serie of JAVA classes.
+ICY: an interface between COMSOL Multiphysics and discrete element code YADE for the modelling of porous media. The interface is based on a serie of JAVA classes.
 
 The interface was first verified to simulate the terminal velocity of a sphere falling in water. The source codes are provided in the Verification folder.
 
@@ -40,3 +36,4 @@ jean-sebastien.dube@etsmtl.ca
 Laboratory for Geotechnical and Geoenvironmental Engineering (LG2) 
 École de technologie supérieure
 1100 Notre-Dame Ouest, Montreal, Quebec, H3C 1K3, Canada
+
