@@ -15,7 +15,7 @@ The interface was then improved to model an internal or contact erosion test. Th
 
 Installing and running the tests
 
-The prerequisits, and the installation and execution instructions are explained in the ICY instruction guide.
+The prerequisites, and the installation and execution instructions are explained in the ICY instruction guide.
 
 =======================
 
