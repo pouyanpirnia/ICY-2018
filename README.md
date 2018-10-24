@@ -12,16 +12,19 @@ The interface was first verified to simulate the terminal velocity of a sphere f
 The interface was then improved to model an internal or contact erosion test. The source codes are presented in the Applicationtest folder.
 
 =======================
+
 Installing and running the tests
 
 The prerequisits, and the installation and execution instructions are explained in the ICY instruction guide.
 
 =======================
+
 Test data
 
 Analytical results and experimental data are presented in the TestData folder.
 
 =======================
+
 Authors
 
 Pouyan Pirnia
